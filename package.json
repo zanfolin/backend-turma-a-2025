@@ -1,0 +1,20 @@
+{
+  "name": "backend-turma-a-2025",
+  "version": "1.0.0",
+  "description": "Servidor de backend para estudo da Turma B do 3o. Info 2025",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "zod"
+  ],
+  "author": "Graziani Zanfolin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
