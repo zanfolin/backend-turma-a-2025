@@ -15,6 +15,7 @@
   "author": "Graziani Zanfolin",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "zod": "^3.24.2"
   }
 }
